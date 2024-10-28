@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.10.14 on win32)" generated="20241004 14:12:23.492" rpa="false" schemaversion="4">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\SJha05\.vscode\extensions\robocorp.robotframework-lsp-1.12.0\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="open website">
+<msg timestamp="20241004 14:12:26.761" level="FAIL">No keyword with name 'open website' found.</msg>
+<status status="FAIL" starttime="20241004 14:12:26.760" endtime="20241004 14:12:26.761"/>
+</kw>
+<status status="PASS" starttime="20241004 14:12:23.512" endtime="20241004 14:12:29.759"/>
+</kw>
+<status status="PASS" starttime="20241004 14:12:23.512" endtime="20241004 14:12:29.759"/>
+</test>
+<status status="PASS" starttime="20241004 14:12:23.492" endtime="20241004 14:12:29.760"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
